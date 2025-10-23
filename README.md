@@ -1,1 +1,1 @@
-Team Chat App - base
+Trevor: rewrite the introduction line (conflicting change)
